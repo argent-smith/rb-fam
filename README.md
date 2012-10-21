@@ -19,7 +19,7 @@ Right now it's a pre-alpha hack which I hope to develop into something usable.
 
 ## Requirements
 
-FAM/Gamin as an API provider.
+FAM or Gamin SHOULD be installed as an API provider.
 
 ## Install
 
