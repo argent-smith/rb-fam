@@ -6,7 +6,11 @@ authors: Pavel Argentov
 email: argentoff@gmail.com
 homepage: https://github.com/argent-smith/rb-fam#readme
 
+dependencies:
+  ffi: ~> 1.1.5
+
 development_dependencies:
+  pry: ~> 0.9
   bundler: ~> 1.0
   rake: ~> 0.8
   rdoc: ~> 3.0
