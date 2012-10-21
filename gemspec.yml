@@ -1,0 +1,13 @@
+name: rb-fam
+summary: "TODO: Summary"
+description: "TODO: Description"
+license: MIT
+authors: Pavel Argentov
+email: argentoff@gmail.com
+homepage: https://github.com/argent-smith/rb-fam#readme
+
+development_dependencies:
+  bundler: ~> 1.0
+  rake: ~> 0.8
+  rdoc: ~> 3.0
+  rspec: ~> 2.4
