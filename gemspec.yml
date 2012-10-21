@@ -1,6 +1,6 @@
 name: rb-fam
-summary: "TODO: Summary"
-description: "TODO: Description"
+summary: "Ruby bindings to FAM API via FFI"
+description: "Connect to and use FAM server to monitor FS events in Ruby"
 license: MIT
 authors: Pavel Argentov
 email: argentoff@gmail.com
