@@ -1,7 +1,7 @@
 # rb-fam
 
-* [Homepage](https://github.com/argent-smith/rb-fam#readme)
-* [Issues](https://github.com/argent-smith/rb-fam/issues)
+* [Homepage](https://github.com/evrone/rb-fam#readme)
+* [Issues](https://github.com/evrone/rb-fam/issues)
 * [Documentation](http://rubydoc.info/gems/rb-fam/frames)
 * [Email](mailto:argentoff at gmail.com)
 
@@ -15,7 +15,7 @@ Right now it's a pre-alpha hack which I hope to develop into something usable.
 
 ## Examples
 
-  require 'rb-fam'
+    require 'rb-fam'
 
 ## Requirements
 
@@ -23,7 +23,7 @@ FAM or Gamin SHOULD be installed as an API provider.
 
 ## Install
 
-  $ gem install rb-fam
+    $ gem install rb-fam
 
 ## Copyright
 
