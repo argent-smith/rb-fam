@@ -3,7 +3,7 @@ require 'ffi'
 module Fam
 
   ##
-  # The low-level FAM operations
+  # The low-level FAM operations AKA API declarations.
   #
   # @private
   module Native
@@ -55,7 +55,8 @@ module Fam
 
     # Constants in Codes indicate what kind of event happened that raised the
     # callback at the application level
-
+    #
+    # @private
     Codes = enum(
       :changed, 1,
       :deleted,
@@ -78,8 +79,8 @@ module Fam
     # } FAMEvent;
 
     # FAM event descriptor
-
-
+    #
+    # @private
     class Event < FFI::Struct
       layout(
         :fc,        :pointer,
