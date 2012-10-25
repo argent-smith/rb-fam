@@ -33,7 +33,7 @@ See LICENSE.txt for details.
 
 ## Thanks to
 
-[Evrone lab](https://github.com/evrone) for giving me a task which led me to
+[Evrone lab](http://evrone.com/) for giving me a task which led me to
 write this peace of software.
 
 ## Motivation
